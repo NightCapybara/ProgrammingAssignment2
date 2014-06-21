@@ -1,6 +1,3 @@
-## Put comments here that give an overall description of what your
-## functions do
-
 ## Makes an object, with a list of functions to get, set, store the 
 ## inverted matrix in m variable.
 
